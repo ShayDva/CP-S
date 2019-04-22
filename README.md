@@ -1,4 +1,4 @@
-# CP-S
+# CP/S
 Command Program Script
 
 # Desc.
